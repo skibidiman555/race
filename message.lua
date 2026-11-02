@@ -1,5 +1,5 @@
 -- Muscle Legends Race Bot (Delta Emülatör Fix - Ultimate Edition)
--- Mobile Touch & Mouse & Delta Bypass
+-- Mobile Touch & Mouse & Delta Bypasss
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
